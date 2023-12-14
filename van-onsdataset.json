@@ -661,7 +661,7 @@
             "content": "Create a Taxonomy class, use Registers trait. Set $taxonomy property, linked post types. Override methods to customize labels, slug etc."
         },
         {
-            "role": "user", 
+            "role": "user",
             "content": "Can I add ACF fields to a taxonomy?"
         },
         {
@@ -1556,7 +1556,6 @@
             "role": "assistant",
             "content": "Yes, you are encouraged to purchase books that you think will be educational or helpful in your work. If the price is significantly higher than what's considered reasonable, check with Jeffrey or Robert before purchasing. Remember to upload the book to the Google Drive folder so everyone can access it."
         },
-        
         {
             "role": "user",
             "content": "What is Git and why do we use it?"
@@ -3604,12 +3603,129 @@
         {
             "role": "assistant",
             "content": "The 'laraberg-nova' repository is a public repository related to the Laravel Nova administration panel. It's written in PHP."
+        },
+        {
+            "role": "user",
+            "content": "When was Van-Ons founded?"
+        },
+        {
+            "role": "assistant",
+            "content": "Van-Ons was founded in 2006. We've been immersed in the digital world since the early days of the internet."
+        },
+        {
+            "role": "user",
+            "content": "What does Van-Ons specialize in?"
+        },
+        {
+            "role": "assistant",
+            "content": "Van-Ons specializes in creating and building digital channels. This includes websites, apps, platforms, and even complex integrations of cloud solutions. We're all about increasing the 'Digital Power' of our clients."
+        },
+        {
+            "role": "user",
+            "content": "Who are the people behind Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Van-Ons is made up of a diverse team of professionals. Some key members include Robert, the founder; Jeffrey, an account manager and partner; Marcel, the operations manager; and Anna, an online producer. We also have a team of developers, designers, and managers who work tirelessly to deliver the best digital solutions."
+        },
+        {
+            "role": "user",
+            "content": "How can I get in touch with Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "You can reach out to Van-Ons through their contact page on their website. They'd be more than happy to discuss how they can help you increase your digital power."
+        },
+        {
+            "role": "user",
+            "content": "Who is the founder of Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "The founder of Van-Ons is Robert."
+        },
+        {
+            "role": "user",
+            "content": "Who manages the operations at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Marcel is the Operations Manager at Van-Ons."
+        },
+        {
+            "role": "user",
+            "content": "Who are the developers at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Van-Ons has a team of talented developers, including Jesse, Saskia, Maurice, Yannic, Danique, Merlijn, Michel, Jonathan, Lars, Jaimy, Joshua, Timmy, and Shin."
+        },
+        {
+            "role": "user",
+            "content": "Who handles the design at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Sebastiaan and Lars handle design at Van-Ons. Sebastiaan is a Designer and Developer, while Lars focuses on Development and Design."
+        },
+        {
+            "role": "user",
+            "content": "Who manages the finances at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Tim is the Finance Manager at Van-Ons."
+        },
+        {
+            "role": "user",
+            "content": "Who are the producers at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Anna and Tatum are the Online Producers at Van-Ons."
+        },
+        {
+            "role": "user",
+            "content": "Who manages the office at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Yvonne is the Office Manager at Van-Ons."
+        },
+        {
+            "role": "user",
+            "content": "Who manages the culture at Van-Ons?"
+        },
+        {
+            "role": "assistant",
+            "content": "Susanne is the Culture Manager at Van-Ons."
+        },
+        {
+            "role": "user",
+            "content": "Who is Robert?"
+        },
+        {
+            "role": "assistant",
+            "content": "Robert is the visionary founder of Van-Ons. With a deep passion for the digital world and an unyielding commitment to quality, he established Van-Ons in 2006. Since then, he has led the company with a clear focus on creating and building digital channels that truly make a difference. His leadership has been instrumental in shaping Van-Ons into the successful web development company it is today. Robert's dedication to innovation and excellence continues to drive the company forward in its mission to deliver top-notch digital solutions."
+        },
+        {
+            "role": "user",
+            "content": "Who is Maurice?"
+        },
+        {
+            "role": "assistant",
+            "content": "Maurice is the technical lead at Van-Ons. He is a master of problem-solving and has a deep understanding of various programming languages and technologies. Maurice's technical expertise and leadership skills ensure that our projects are executed with precision and efficiency. His ability to navigate complex technical challenges is truly remarkable, making him an invaluable asset to the Van-Ons team."
+        },
+        {
+            "role": "user",
+            "content": "Who is Timmy?"
+        },
+        {
+            "role": "assistant",
+            "content": "Timmy is one of our talented developers at Van-Ons. His passion for coding and his commitment to quality are evident in every project he works on. Timmy has a knack for turning complex problems into simple, elegant solutions. His dedication and technical skills contribute significantly to the high-quality digital channels that Van-Ons is known for. Timmy's work truly embodies the spirit of innovation that drives Van-Ons."
         }
     ]
-}
-                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                                                                                                                                                                       
+}                                                                                                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                                                                    
                                                                                                                                                                                                                                                                                                                                                                                                                   
                                                                                                                                                                                                                                                                                                                                                                                                                
