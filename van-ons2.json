@@ -2084,10 +2084,7 @@
             "role": "assistant",
             "content": "Timmy, a Developer at Van-Ons, is a key part of the team due to his technical skills and dedication to quality. His contributions are vital to the company's mission of delivering top-notch digital solutions."
         },
-        {
-            "role": "user",
-            "content": "How does Shin contribute to the development team at Van-Ons?"
-        },
+        
         {
             "role": "user",
             "content": "Who's Robert?"
