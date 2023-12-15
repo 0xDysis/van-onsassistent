@@ -4,7 +4,7 @@ import numpy as np
 from collections import defaultdict
 
 # Load the dataset
-data_path = "data.jsonl"
+data_path = "data2.jsonl"
 with open(data_path, 'r', encoding='utf-8') as f:
     dataset = [json.loads(line) for line in f]
 

@@ -1,7 +1,7 @@
 import json
 
 # Load your JSON data
-with open('van-onsdataset.json', 'r') as f:
+with open('van-ons2.json', 'r') as f:
     data = json.load(f)
 
 # Extract the system message
@@ -25,7 +25,7 @@ for i in range(1, len(data['messages']), 2):
         new_data.append(new_object)
 
 # Write each new JSON object to a new line in a .jsonl file
-with open('data.jsonl', 'w') as f:
+with open('data2.jsonl', 'w') as f:
     for entry in new_data:
         json.dump(entry, f)
         f.write('\n')
